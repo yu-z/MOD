@@ -1,4 +1,4 @@
-e# MOD
+# MOD
 
 ## What is MOD?
 
