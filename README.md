@@ -15,18 +15,10 @@
 ## Run MOD
 
 * Please read the manual to study the examples. These examples should get you started. 
-  
-## Authors:
-
-* Yu Zhang (Aalto University)
-  * zhangy9@sustc.edu.cn
-* Ville Vierimaa (Aalto University)  
-* Mikko Ervasti (Aalto University)  
-* Ari Harju (Aalto University) 
 
 ## Feedbacks:
 
-There is a comprehensive manual in the "doc" directory. You can e-mail the author if you find errors in the manual or bugs in the source code, or have any suggestions/questions about the manual and code. Thank you!
+There is a comprehensive manual in the "doc" directory. You can e-mail (zhangy9@sustc.edu.cn) if you find errors in the manual or bugs in the source code, or have any suggestions/questions about the manual and code. Thank you!
 
 ## Citations
 
