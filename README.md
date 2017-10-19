@@ -17,7 +17,7 @@ The following paragraphs describe how to use the pipeline:
 
 * BS-seq reads mapping
    * This step processes raw fastq files from BS-seq. You have to install BSMAP firstly before run this step. 
-   * We have two scripts for mapping BS-seq reads using BSMAP: multiple_BSMAP.pl for single-end libraries; multiple_BSMAP_PE.pl for pair -end libraries. The two scripts depend on the other three scripts:  methratio_alt.py, BSmap_to_cytosine.pl, Cytosine_to_100bp.pl; the two files also depend on two large file: TAIR10 genome, Cytosine files. So you have to check the route is right in above two perl scripts. 
+   * We have two scripts for mapping BS-seq reads using BSMAP: multiple_BSMAP.pl for single-end libraries; multiple_BSMAP_PE.pl for pair-end libraries. The two scripts depend on the other three scripts:  methratio_alt.py, BSmap_to_cytosine.pl, Cytosine_to_100bp.pl; the two files also depend on two large file: TAIR10 genome, Cytosine files. So you have to check the route is right in above two perl scripts. 
    * This step will generate 100bp files, seprated into three CHH, CHG and CG files. You can use Parse_BSMAP_log_By100bp.pl to get the mapping statistcs. 
 		
 * DMR calling
