@@ -4,16 +4,24 @@
 
 * MOD stands for Mearsurement of Overlapping of DMRs. It is a pipeline to compare DNA methylation profiles among mutiple Bisulfite-Seq libraries. For details, see Ref. [1].
 
+<<<<<<< HEAD
 * The pipline includes several procedures:
    * BS-seq read mapping
    * DMR (Differentially methylated regions) calling by mutilple control libraries
    * S-MOD (Statistical Measurement of Overlapping of DMRs)
+=======
+* The pipeine includes several procedures:
+   * BS-seq reads mapping
+   * DMR (Differentially methulated regions) calling by mutilple control libraries
+   * S-MOD (Statistical Mearsurement of Overlapping of DMRs)
+>>>>>>> 8eac5a6aec73264e57f8abf3cdce7144ab1f62c5
    * Q-MOD (Quantitative Mearsurement of Overlapping of DMRs)
    
 * It is a very early version, we are working on the improvement of computational efficiency and making it more user freindly. 
 
 ## Run MOD
 
+<<<<<<< HEAD
 * It is a very early version, we are working on the improvement of computational efficiency and making it more user freindly. So you have to be a perl programmer to use this pipeline for current version.
 The following paragraphs describe how to use the pipeline:
 
@@ -34,6 +42,13 @@ The following paragraphs describe how to use the pipeline:
 ## Feedbacks:
 
 There is a comprehensive manual in the "doc" directory. You can e-mail (zhangy9@sustc.edu.cn) the author if you find errors in the manual or bugs in the source code, or have any suggestions/questions about the manual and code. Thank you!
+=======
+* Please read the manual to study the examples. These examples should get you started. 
+
+## Feedbacks:
+
+There is a comprehensive manual in the "doc" directory. You can e-mail (zhangy9@sustc.edu.cn) if you find errors in the manual or bugs in the source code, or have any suggestions/questions about the manual and code. Thank you!
+>>>>>>> 8eac5a6aec73264e57f8abf3cdce7144ab1f62c5
 
 ## Citations
 
