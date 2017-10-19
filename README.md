@@ -31,7 +31,7 @@ The following paragraphs describe how to use the pipeline:
 
 ## Feedbacks:
 
-There is a comprehensive manual in the "doc" directory. You can e-mail (zhangy9@sustc.edu.cn) the author if you find errors in the manual or bugs in the source code, or have any suggestions/questions about the manual and code. Thank you!
+You can e-mail (zhangy9@sustc.edu.cn) if you find errors in the manual or bugs in the source code, or have any suggestions/questions about the manual and code. Thank you!
 
 ## Citations
 
