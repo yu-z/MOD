@@ -9,8 +9,6 @@
    * DMR (Differentially methylated regions) calling by mutilple control libraries
    * S-MOD (Statistical Measurement of Overlapping of DMRs)
    * Q-MOD (Quantitative Mearsurement of Overlapping of DMRs)
-   
-* It is a very early version, we are working on the improvement of computational efficiency and making it more user freindly. 
 
 ## Run MOD
 
