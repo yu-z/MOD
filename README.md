@@ -1,10 +1,10 @@
-# MOD
+e# MOD
 
 ## What is MOD?
 
 * MOD stands for Mearsurement of Overlapping of DMRs. It is a pipeline to compare DNA methylation profiles among mutiple Bisulfite-Seq libraries. For details, see Ref. [1].
 
-* The pipline includes several procedures:
+* The pipeine includes several procedures:
    * BS-seq read mapping
    * DMR (Differentially methulated regions) calling by mutilple control libraries
    * S-MOD (Statistical Mearsurement of Overlapping of DMRs)
