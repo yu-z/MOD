@@ -31,10 +31,8 @@
   
 ## Authors:
 
-* Zheyong Fan (Aalto University)
-  * brucenju(at)gmail.com
-  * zheyong.fan(at)aalto.fi
-  * zheyongfan(at)163.com
+* Yu Zhang (Aalto University)
+  * zhangy9@sustc.edu.cn
 * Ville Vierimaa (Aalto University)  
 * Mikko Ervasti (Aalto University)  
 * Ari Harju (Aalto University) 
